@@ -1,0 +1,6 @@
+C:\Users\Nikolias\source\repos\TestLibrary\AreaCalculator\bin\Debug\AreaCalculator.dll
+C:\Users\Nikolias\source\repos\TestLibrary\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\Nikolias\source\repos\TestLibrary\AreaCalculator\obj\Debug\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\Nikolias\source\repos\TestLibrary\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolias\source\repos\TestLibrary\AreaCalculator\obj\Debug\AreaCalculator.dll
+C:\Users\Nikolias\source\repos\TestLibrary\AreaCalculator\obj\Debug\AreaCalculator.pdb

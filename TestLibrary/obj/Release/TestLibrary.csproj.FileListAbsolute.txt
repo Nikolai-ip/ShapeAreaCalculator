@@ -1,0 +1,11 @@
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\bin\Release\TestLibrary.exe.config
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\bin\Release\TestLibrary.exe
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\bin\Release\AreaCalculator.dll
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\bin\Release\AreaCalculator.pdb
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\obj\Release\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\obj\Release\TestLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\obj\Release\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\obj\Release\TestLibrary.csproj.CopyComplete
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\obj\Release\TestLibrary.exe
+C:\Users\Nikolias\source\repos\TestLibrary\TestLibrary\obj\Release\TestLibrary.pdb
